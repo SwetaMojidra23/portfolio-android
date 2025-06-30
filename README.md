@@ -39,7 +39,7 @@ I’m passionate about creating user-friendly mobile apps and writing clean, eff
 
 | App Name | Description | Tech Used |
 |---------|-------------|-----------|
-| Step & calorie tracker with background service | Java |
+| Step & calorie tracker with background service | Step & calorie tracker with background service  | Java & Kotlin, LiveData  |
 | Kids Balloon Pop Game | Fun game for kids | Kotlin, Canvas |
 | Duplicate File Remover | Scans & removes duplicate files | Java & Kotlin |
 | Edge Lighting – Border Light | Notification lighting effects | Java & Kotlin, Animation |
